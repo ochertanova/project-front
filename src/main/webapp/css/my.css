@@ -1,0 +1,14 @@
+
+th, td {
+    border: 1px solid green;
+    padding: 3px;
+}
+
+button #save{
+    border-radius: 12px;
+    background-color: #4CAF50;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+}
+
